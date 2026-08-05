@@ -1,0 +1,404 @@
+{
+    "checkIntervalMinutes": 5,
+    "watches": [
+        {
+            "label": "Anoia > Igualada (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "igualada",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Anoia > Jorba (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "jorba",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Anoia > Piera (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "piera",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Anoia > Santa Margarida de Montbui (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "santa-margarida-de-montbui",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Anoia > Vallbona d'Anoia (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "vallbona-danoia",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Anoia > Vilanova del Camí (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "vilanova-del-cami",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Berguedà > Berga (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "berga",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Berguedà > Gironella (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "gironella",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Berguedà > Guardiola de Berguedà (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "guardiola-de-bergueda",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Baix Llobregat > Sant Vicenç dels Horts (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "sant-vicenc-dels-horts",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Baix Llobregat > Cervelló (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "cervello",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Baix Llobregat > Collbató (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "collbato",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Baix Llobregat > Esparreguera (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "esparreguera",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Baix Llobregat > Martorell (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "martorell",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Baix Llobregat > Molins de Rei (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "molins-de-rei",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Baix Llobregat > Olesa de Montserrat (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "olesa-de-montserrat",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Baix Llobregat > Sant Andreu de la Barca (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "sant-andreu-de-la-barca",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Baix Llobregat > Vallirana (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "vallirana",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Cataluña > Barcelona > Barcelona (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "barcelona",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Bages > Manresa (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "manresa",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Bages > Balsareny (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "balsareny",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Bages > Cardona (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "cardona",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Bages > Fonollosa (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "fonollosa",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Bages > Sallent (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "sallent",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Bages > Sant Fruitós de Bages (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "sant-fruitos-de-bages",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Bages > Sant Joan de Vilatorrada (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "sant-joan-de-vilatorrada",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Bages > Santpedor (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "santpedor",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Badia del Vallès (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "badia-del-valles",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Barberà del Vallès (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "barbera-del-valles",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Castellar del Vallès (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "castellar-del-valles",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Castellbisbal (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "castellbisbal",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Cerdanyola del Vallès (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "cerdanyola-del-valles",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Matadepera (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "matadepera",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Montcada i Reixac (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "montcada-i-reixac",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Polinyà (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "polinya",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Ripollet (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "ripollet",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Rubí (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "rubi",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Sabadell (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "sabadell",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Santa Perpètua de Mogoda (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "santa-perpetua-de-mogoda",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Terrassa (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "terrassa",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Vacarisses (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "vacarisses",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Occidental > Viladecavalls (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "viladecavalls",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > L'Ametlla del Vallès (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "ametlla-del-valles-l",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Caldes de Montbui (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "caldes-de-montbui",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Canovelles (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "canovelles",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Cardedeu (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "cardedeu",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Les Franqueses del Vallès (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "franqueses-del-valles-les",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Granollers (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "granollers",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > La Llagosta (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "llagosta-la",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Llinars del Vallès (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "llinars-del-valles",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Mollet del Vallès (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "mollet-del-valles",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Montornès del Vallès (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "montornes-del-valles",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Parets del Vallès (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "parets-del-valles",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Sant Antoni de Vilamajor (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "sant-antoni-de-vilamajor",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Sant Celoni (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "sant-celoni",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Sant Pere de Vilamajor (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "sant-pere-de-vilamajor",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        },
+        {
+            "label": "Vallès Oriental > Vallgorguina (Todos los tipos)",
+            "comunidad": "cataluna",
+            "provincia": "barcelona",
+            "localidad": "vallgorguina",
+            "tipos": ["10", "2", "9", "1", "4", "6", "8", "5", "3", "11", "7"]
+        }
+    ]
+}
